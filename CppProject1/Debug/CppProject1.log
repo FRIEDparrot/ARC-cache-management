@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\workpack\C++\CppProject1\CppProject1\ARCcacheHeader.h(26,2): warning C4091: 'typedef ': ignored on left of 'CacheList' when no variable is declared
+  CppProject1.vcxproj -> E:\workpack\C++\CppProject1\Debug\CppProject1.exe
